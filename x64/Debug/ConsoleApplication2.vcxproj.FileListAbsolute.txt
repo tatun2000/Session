@@ -1,0 +1,2 @@
+C:\Users\Дмитрий\source\repos\Тренинг\MySession\x64\Debug\ConsoleApplication2.exe
+C:\Users\Дмитрий\source\repos\Тренинг\MySession\x64\Debug\ConsoleApplication2.pdb
